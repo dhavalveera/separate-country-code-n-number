@@ -23,8 +23,7 @@ npm i @dhavalveera/separate-country-code-n-number
 using CommonJS
 
 ```js
-const countryCode =
-  require('@dhavalveera/separate-country-code-n-number').separateCountryCodeAndNumber;
+const countryCode = require('@dhavalveera/separate-country-code-n-number').separateCountryCodeAndNumber;
 
 const { code, number } = countryCode('+911234567890');
 //=> +91 1234567890

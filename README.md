@@ -43,4 +43,5 @@ or
 
 ```js
 const countryCode = countryCode('+911234567890').code;
+const phoneNumber = countryCode('+911234567890').number;
 ```

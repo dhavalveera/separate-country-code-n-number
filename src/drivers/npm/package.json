@@ -18,7 +18,11 @@
   "keywords": [
     "npm",
     "separate country code and number",
-    "country code"
+    "country code",
+    "analyze",
+    "identify",
+    "detect",
+    "library"
   ],
   "engines": {
     "node": "*"

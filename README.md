@@ -32,3 +32,11 @@ yarn run link
 ```sh
 node src\drivers\npm\cli.js "+911234567890"
 ```
+
+**`output:`**
+
+```sh
+Country ISD Code =>  +91
+Country Name =>  India
+Phone Number is =>  1234567890
+```

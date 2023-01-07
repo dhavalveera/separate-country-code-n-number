@@ -8,3 +8,27 @@
 **[Separate Country Code & Number](https://www.npmjs.com/package/@dhavalveera/separate-country-code-n-number) is used to separate the country ISD Code & Phone Number from the string, and returns Country Code, Phone Number & Country separately.**
 
 If you don't have time to write the code to separate the country code & number from a single string, we offer the solution where you can get the Country ISD Code, Country Name & Phone Number separately with this tiny package.
+
+## Prerequisites
+
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org) version 14 or higher
+- [Yarn](https://yarnpkg.com) **or**
+- [npm](https://npmjs.com)
+
+## Quick start
+
+```sh
+git clone https://github.com/dhavalveera/separate-country-code-n-number.git
+cd separate-country-code-n-number
+yarn install
+yarn run link
+```
+
+## Usage
+
+### Command line
+
+```sh
+node src\drivers\npm\cli.js "+911234567890"
+```

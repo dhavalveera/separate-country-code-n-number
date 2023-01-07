@@ -1,6 +1,6 @@
 {
   "name": "@dhavalveera/separate-country-code-n-number",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Separates the Country Code and Number",
   "license": "MIT",
   "author": "Dhaval Vira <dhavalveera@gmail.com> (https://github.com/dhavalveera)",

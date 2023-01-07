@@ -11,6 +11,7 @@
     "prettier": "2.8.1"
   },
   "scripts": {
+    "link": "npm link src/drivers/npm",
     "lint": "eslint src/**/*.{js,json}",
     "lint:fix": "eslint --fix src/**/*.{js,json}",
     "prettify": "jsonlint -si --trim-trailing-commas --enforce-double-quotes ./src/drivers/npm/countries-isd-codes.json"

@@ -12,7 +12,7 @@ Separate the Country ISD Code &amp; Phone Number
 
 ---
 
-```bash
+```sh
 npm i @dhavalveera/separate-country-code-n-number
 ```
 
@@ -23,17 +23,21 @@ npm i @dhavalveera/separate-country-code-n-number
 using CommonJS
 
 ```js
-const countryCode = require('@dhavalveera/separate-country-code-n-number').separateCountryCodeAndNumber;
+const countryCode =
+  require('@dhavalveera/separate-country-code-n-number').separateCountryCodeAndNumber
 
-const { code, number } = countryCode('+911234567890');
+const { code, number } = countryCode('+911234567890')
 //=> +91 1234567890
 ```
 
 or
 
 ```js
-const countryCode = countryCode('+911234567890').code;
-const phoneNumber = countryCode('+911234567890').number;
+const countryCode = countryCode('+911234567890').code
+const phoneNumber = countryCode('+911234567890').number
+const country = countryCode('+911234567890').country
+
+//=> +91 1234567890 India
 ```
 
 ---
@@ -41,15 +45,17 @@ const phoneNumber = countryCode('+911234567890').number;
 using ESmodules
 
 ```js
-import { separateCountryCodeAndNumber } from '@dhavalveera/separate-country-code-n-number';
+import { separateCountryCodeAndNumber } from '@dhavalveera/separate-country-code-n-number'
 
-const { code, number } = separateCountryCodeAndNumber('+911234567890');
-//=> +91 1234567890
+const { code, number, country } = separateCountryCodeAndNumber('+911234567890')
+//=> +91 1234567890 India
 ```
 
 or
 
 ```js
-const countryCode = separateCountryCodeAndNumber('+911234567890').code;
-const phoneNumber = separateCountryCodeAndNumber('+911234567890').number;
+const countryCode = separateCountryCodeAndNumber('+911234567890').code
+const phoneNumber = separateCountryCodeAndNumber('+911234567890').number
+const country = separateCountryCodeAndNumber('+911234567890').country
+//=> +91 1234567890 India
 ```

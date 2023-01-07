@@ -1,0 +1,26 @@
+{
+  "name": "@dhavalveera/separate-country-code-n-number",
+  "version": "1.0.7",
+  "description": "Separates the Country Code and Number",
+  "license": "MIT",
+  "author": "Dhaval Vira <dhavalveera@gmail.com> (https://github.com/dhavalveera)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhavalveera/separate-country-code-n-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhavalveera/separate-country-code-n-number/issues"
+  },
+  "main": "index.js",
+  "bin": {
+    "separateCountryCodeAndNumber": "cli.js"
+  },
+  "keywords": [
+    "npm",
+    "separate country code and number",
+    "country code"
+  ],
+  "engines": {
+    "node": "*"
+  }
+}

@@ -1,0 +1,1192 @@
+{
+  "countryCodes": [
+    {
+      "countryName": "Afghanistan",
+      "isdCode": "+93"
+    },
+    {
+      "countryName": "Åland",
+      "isdCode": "+35818"
+    },
+    {
+      "countryName": "Albania",
+      "isdCode": "+355"
+    },
+    {
+      "countryName": "Algeria",
+      "isdCode": "+213"
+    },
+    {
+      "countryName": "American Samoa",
+      "isdCode": "+1684"
+    },
+    {
+      "countryName": "Andorra",
+      "isdCode": "+376"
+    },
+    {
+      "countryName": "Angola",
+      "isdCode": "+244"
+    },
+    {
+      "countryName": "Anguilla",
+      "isdCode": "+1264"
+    },
+    {
+      "countryName": "Antigua and Barbuda",
+      "isdCode": "+1268"
+    },
+    {
+      "countryName": "Argentina",
+      "isdCode": "+54"
+    },
+    {
+      "countryName": "Armenia",
+      "isdCode": "+374"
+    },
+    {
+      "countryName": "Aruba",
+      "isdCode": "+297"
+    },
+    {
+      "countryName": "Ascension",
+      "isdCode": "+247"
+    },
+    {
+      "countryName": "Australia",
+      "isdCode": "+61"
+    },
+    {
+      "countryName": "Australian Antarctic Territory",
+      "isdCode": "+6721"
+    },
+    {
+      "countryName": "Australian External Territories",
+      "isdCode": "+672"
+    },
+    {
+      "countryName": "Austria",
+      "isdCode": "+43"
+    },
+    {
+      "countryName": "Azerbaijan",
+      "isdCode": "+994"
+    },
+    {
+      "countryName": "Bahamas",
+      "isdCode": "+1242"
+    },
+    {
+      "countryName": "Bahrain",
+      "isdCode": "+973"
+    },
+    {
+      "countryName": "Bangladesh",
+      "isdCode": "+880"
+    },
+    {
+      "countryName": "Barbados",
+      "isdCode": "+1246"
+    },
+    {
+      "countryName": "Barbuda",
+      "isdCode": "+1268"
+    },
+    {
+      "countryName": "Belarus",
+      "isdCode": "+375"
+    },
+    {
+      "countryName": "Belgium",
+      "isdCode": "+32"
+    },
+    {
+      "countryName": "Belize",
+      "isdCode": "+501"
+    },
+    {
+      "countryName": "Benin",
+      "isdCode": "+229"
+    },
+    {
+      "countryName": "Bermuda",
+      "isdCode": "+1441"
+    },
+    {
+      "countryName": "Bhutan",
+      "isdCode": "+975"
+    },
+    {
+      "countryName": "Bolivia",
+      "isdCode": "+591"
+    },
+    {
+      "countryName": "Bonaire",
+      "isdCode": "+5997"
+    },
+    {
+      "countryName": "Bosnia and Herzegovina",
+      "isdCode": "+387"
+    },
+    {
+      "countryName": "Botswana",
+      "isdCode": "+267"
+    },
+    {
+      "countryName": "Brazil",
+      "isdCode": "+55"
+    },
+    {
+      "countryName": "British Indian Ocean Territory",
+      "isdCode": "+246"
+    },
+    {
+      "countryName": "British Virgin Islands",
+      "isdCode": "+1284"
+    },
+    {
+      "countryName": "Brunei Darussalam",
+      "isdCode": "+673"
+    },
+    {
+      "countryName": "Bulgaria",
+      "isdCode": "+359"
+    },
+    {
+      "countryName": "Burkina Faso",
+      "isdCode": "+226"
+    },
+    {
+      "countryName": "Burundi",
+      "isdCode": "+257"
+    },
+    {
+      "countryName": "Cape Verde",
+      "isdCode": "+238"
+    },
+    {
+      "countryName": "Cambodia",
+      "isdCode": "+855"
+    },
+    {
+      "countryName": "Cameroon",
+      "isdCode": "+237"
+    },
+    {
+      "countryName": "Caribbean Netherlands",
+      "isdCode": "+5993"
+    },
+    {
+      "countryName": "Caribbean Netherlands",
+      "isdCode": "+5994"
+    },
+    {
+      "countryName": "Caribbean Netherlands",
+      "isdCode": "+5997"
+    },
+    {
+      "countryName": "Cayman Islands",
+      "isdCode": "+1345"
+    },
+    {
+      "countryName": "Central African Republic",
+      "isdCode": "+236"
+    },
+    {
+      "countryName": "Chad",
+      "isdCode": "+235"
+    },
+    {
+      "countryName": "Chatham Island, New Zealand",
+      "isdCode": "+64"
+    },
+    {
+      "countryName": "Chile",
+      "isdCode": "+56"
+    },
+    {
+      "countryName": "China",
+      "isdCode": "+86"
+    },
+    {
+      "countryName": "Christmas Island",
+      "isdCode": "+6189164"
+    },
+    {
+      "countryName": "Cocos (Keeling) Islands",
+      "isdCode": "+6189162"
+    },
+    {
+      "countryName": "Colombia",
+      "isdCode": "+57"
+    },
+    {
+      "countryName": "Comoros",
+      "isdCode": "+269"
+    },
+    {
+      "countryName": "Congo",
+      "isdCode": "+242"
+    },
+    {
+      "countryName": "Congo, Democratic Republic of the",
+      "isdCode": "+243"
+    },
+    {
+      "countryName": "Cook Islands",
+      "isdCode": "+682"
+    },
+    {
+      "countryName": "Costa Rica",
+      "isdCode": "+506"
+    },
+    {
+      "countryName": "Ivory Coast (Côte d'Ivoire)",
+      "isdCode": "+225"
+    },
+    {
+      "countryName": "Croatia",
+      "isdCode": "+385"
+    },
+    {
+      "countryName": "Cuba",
+      "isdCode": "+53"
+    },
+    {
+      "countryName": "Curaçao",
+      "isdCode": "+5999"
+    },
+    {
+      "countryName": "Cyprus",
+      "isdCode": "+357"
+    },
+    {
+      "countryName": "Czech Republic",
+      "isdCode": "+420"
+    },
+    {
+      "countryName": "Denmark",
+      "isdCode": "+45"
+    },
+    {
+      "countryName": "Diego Garcia",
+      "isdCode": "+246"
+    },
+    {
+      "countryName": "Djibouti",
+      "isdCode": "+253"
+    },
+    {
+      "countryName": "Dominica",
+      "isdCode": "+1767"
+    },
+    {
+      "countryName": "Dominican Republic",
+      "isdCode": "+1809"
+    },
+    {
+      "countryName": "Dominican Republic",
+      "isdCode": "+1829"
+    },
+    {
+      "countryName": "Dominican Republic",
+      "isdCode": "+1849"
+    },
+    {
+      "countryName": "Easter Island",
+      "isdCode": "+56"
+    },
+    {
+      "countryName": "Ecuador",
+      "isdCode": "+593"
+    },
+    {
+      "countryName": "Egypt",
+      "isdCode": "+20"
+    },
+    {
+      "countryName": "El Salvador",
+      "isdCode": "+503"
+    },
+    {
+      "countryName": "Ellipso (Mobile Satellite service)",
+      "isdCode": "+8812"
+    },
+    {
+      "countryName": "Ellipso (Mobile Satellite service)",
+      "isdCode": "+8813"
+    },
+    {
+      "countryName": "EMSAT (Mobile Satellite service)",
+      "isdCode": "+88213"
+    },
+    {
+      "countryName": "Equatorial Guinea",
+      "isdCode": "+240"
+    },
+    {
+      "countryName": "Eritrea",
+      "isdCode": "+291"
+    },
+    {
+      "countryName": "Estonia",
+      "isdCode": "+372"
+    },
+    {
+      "countryName": "Eswatini",
+      "isdCode": "+268"
+    },
+    {
+      "countryName": "Ethiopia",
+      "isdCode": "+251"
+    },
+    {
+      "countryName": "Falkland Islands",
+      "isdCode": "+500"
+    },
+    {
+      "countryName": "Faroe Islands",
+      "isdCode": "+298"
+    },
+    {
+      "countryName": "Fiji",
+      "isdCode": "+679"
+    },
+    {
+      "countryName": "Finland",
+      "isdCode": "+358"
+    },
+    {
+      "countryName": "France",
+      "isdCode": "+33"
+    },
+    {
+      "countryName": "French Antilles",
+      "isdCode": "+596"
+    },
+    {
+      "countryName": "French Guiana",
+      "isdCode": "+594"
+    },
+    {
+      "countryName": "French Polynesia",
+      "isdCode": "+689"
+    },
+    {
+      "countryName": "Gabon",
+      "isdCode": "+241"
+    },
+    {
+      "countryName": "Gambia",
+      "isdCode": "+220"
+    },
+    {
+      "countryName": "Georgia",
+      "isdCode": "+995"
+    },
+    {
+      "countryName": "Germany",
+      "isdCode": "+49"
+    },
+    {
+      "countryName": "Ghana",
+      "isdCode": "+233"
+    },
+    {
+      "countryName": "Gibraltar",
+      "isdCode": "+350"
+    },
+    {
+      "countryName": "Global Mobile Satellite System (GMSS)",
+      "isdCode": "+881"
+    },
+    {
+      "countryName": "Globalstar (Mobile Satellite Service)",
+      "isdCode": "+8818"
+    },
+    {
+      "countryName": "Globalstar (Mobile Satellite Service)",
+      "isdCode": "+8819"
+    },
+    {
+      "countryName": "Greece",
+      "isdCode": "+30"
+    },
+    {
+      "countryName": "Greenland",
+      "isdCode": "+299"
+    },
+    {
+      "countryName": "Grenada",
+      "isdCode": "+1473"
+    },
+    {
+      "countryName": "Guadeloupe",
+      "isdCode": "+590"
+    },
+    {
+      "countryName": "Guam",
+      "isdCode": "+1671"
+    },
+    {
+      "countryName": "Guatemala",
+      "isdCode": "+504"
+    },
+    {
+      "countryName": "Guernsey",
+      "isdCode": "+441481"
+    },
+    {
+      "countryName": "Guernsey",
+      "isdCode": "+447781"
+    },
+    {
+      "countryName": "Guernsey",
+      "isdCode": "+447839"
+    },
+    {
+      "countryName": "Guernsey",
+      "isdCode": "+447911"
+    },
+    {
+      "countryName": "Guinea",
+      "isdCode": "+224"
+    },
+    {
+      "countryName": "Guinea-Bissau",
+      "isdCode": "+245"
+    },
+    {
+      "countryName": "Guyana",
+      "isdCode": "+592"
+    },
+    {
+      "countryName": "Haiti",
+      "isdCode": "+509"
+    },
+    {
+      "countryName": "Honduras",
+      "isdCode": "+504"
+    },
+    {
+      "countryName": "Hong Kong",
+      "isdCode": "+852"
+    },
+    {
+      "countryName": "Hungary",
+      "isdCode": "+36"
+    },
+    {
+      "countryName": "Iceland",
+      "isdCode": "+354"
+    },
+    {
+      "countryName": "ICO Global (Mobile Satellite Service)",
+      "isdCode": "+8810"
+    },
+    {
+      "countryName": "ICO Global (Mobile Satellite Service)",
+      "isdCode": "+8811"
+    },
+    {
+      "countryName": "India",
+      "isdCode": "+91"
+    },
+    {
+      "countryName": "Indonesia",
+      "isdCode": "+62"
+    },
+    {
+      "countryName": "Inmarsat SNAC",
+      "isdCode": "+870"
+    },
+    {
+      "countryName": "International Freephone Service (UIFN)",
+      "isdCode": "+800"
+    },
+    {
+      "countryName": "International Networks",
+      "isdCode": "+882"
+    },
+    {
+      "countryName": "International Networks",
+      "isdCode": "+883"
+    },
+    {
+      "countryName": "International Premium Rate Service",
+      "isdCode": "+979"
+    },
+    {
+      "countryName": "International Shared Cost Service (ISCS)",
+      "isdCode": "+808"
+    },
+    {
+      "countryName": "Iran",
+      "isdCode": "+98"
+    },
+    {
+      "countryName": "Iraq",
+      "isdCode": "+964"
+    },
+    {
+      "countryName": "Ireland",
+      "isdCode": "+353"
+    },
+    {
+      "countryName": "Iridium (Mobile Satellite service)",
+      "isdCode": "+8816"
+    },
+    {
+      "countryName": "Iridium (Mobile Satellite service)",
+      "isdCode": "+8817"
+    },
+    {
+      "countryName": "Isle of Man",
+      "isdCode": "+441624"
+    },
+    {
+      "countryName": "Isle of Man",
+      "isdCode": "+447524"
+    },
+    {
+      "countryName": "Isle of Man",
+      "isdCode": "+447624"
+    },
+    {
+      "countryName": "Isle of Man",
+      "isdCode": "+447924"
+    },
+    {
+      "countryName": "Israel",
+      "isdCode": "+972"
+    },
+    {
+      "countryName": "Italy",
+      "isdCode": "+39"
+    },
+    {
+      "countryName": "Jamaica",
+      "isdCode": "+1658"
+    },
+    {
+      "countryName": "Jamaica",
+      "isdCode": "+1876"
+    },
+    {
+      "countryName": "Jan Mayen",
+      "isdCode": "+4779"
+    },
+    {
+      "countryName": "Japan",
+      "isdCode": "+81"
+    },
+    {
+      "countryName": "Jersey",
+      "isdCode": "+441534"
+    },
+    {
+      "countryName": "Jordan",
+      "isdCode": "+962"
+    },
+    {
+      "countryName": "Kenya",
+      "isdCode": "+254"
+    },
+    {
+      "countryName": "Kiribati",
+      "isdCode": "+686"
+    },
+    {
+      "countryName": "North Korea",
+      "isdCode": "+850"
+    },
+    {
+      "countryName": "South Korea",
+      "isdCode": "+82"
+    },
+    {
+      "countryName": "Kosovo",
+      "isdCode": "+383"
+    },
+    {
+      "countryName": "Kuwait",
+      "isdCode": "+965"
+    },
+    {
+      "countryName": "Kyrgyzstan",
+      "isdCode": "+996"
+    },
+    {
+      "countryName": "Laos",
+      "isdCode": "+856"
+    },
+    {
+      "countryName": "Latvia",
+      "isdCode": "+371"
+    },
+    {
+      "countryName": "Lebanon",
+      "isdCode": "+961"
+    },
+    {
+      "countryName": "Lesotho",
+      "isdCode": "+266"
+    },
+    {
+      "countryName": "Liberia",
+      "isdCode": "+231"
+    },
+    {
+      "countryName": "Libya",
+      "isdCode": "+218"
+    },
+    {
+      "countryName": "Liechtenstein",
+      "isdCode": "+423"
+    },
+    {
+      "countryName": "Lithuania",
+      "isdCode": "+370"
+    },
+    {
+      "countryName": "Luxembourg",
+      "isdCode": "+352"
+    },
+    {
+      "countryName": "Macau",
+      "isdCode": "+853"
+    },
+    {
+      "countryName": "Madagascar",
+      "isdCode": "+261"
+    },
+    {
+      "countryName": "Malawi",
+      "isdCode": "+265"
+    },
+    {
+      "countryName": "Malaysia",
+      "isdCode": "+60"
+    },
+    {
+      "countryName": "Maldives",
+      "isdCode": "+960"
+    },
+    {
+      "countryName": "Mali",
+      "isdCode": "+223"
+    },
+    {
+      "countryName": "Malta",
+      "isdCode": "+356"
+    },
+    {
+      "countryName": "Marshall Islands",
+      "isdCode": "+692"
+    },
+    {
+      "countryName": "Martinique",
+      "isdCode": "+596"
+    },
+    {
+      "countryName": "Mauritania",
+      "isdCode": "+222"
+    },
+    {
+      "countryName": "Mauritius",
+      "isdCode": "+230"
+    },
+    {
+      "countryName": "Mayotte",
+      "isdCode": "+262269"
+    },
+    {
+      "countryName": "Mayotte",
+      "isdCode": "+262639"
+    },
+    {
+      "countryName": "Mexico",
+      "isdCode": "+52"
+    },
+    {
+      "countryName": "Micronesia, Federated States of",
+      "isdCode": "+691"
+    },
+    {
+      "countryName": "Midway Island, USA",
+      "isdCode": "+1808"
+    },
+    {
+      "countryName": "Moldova",
+      "isdCode": "+373"
+    },
+    {
+      "countryName": "Monaco",
+      "isdCode": "+377"
+    },
+    {
+      "countryName": "Mongolia",
+      "isdCode": "+976"
+    },
+    {
+      "countryName": "Montenegro",
+      "isdCode": "+382"
+    },
+    {
+      "countryName": "Montserrat",
+      "isdCode": "+1664"
+    },
+    {
+      "countryName": "Morocco",
+      "isdCode": "+212"
+    },
+    {
+      "countryName": "Mozambique",
+      "isdCode": "+258"
+    },
+    {
+      "countryName": "Myanmar",
+      "isdCode": "+95"
+    },
+    {
+      "countryName": "Artsakh",
+      "isdCode": "+37447"
+    },
+    {
+      "countryName": "Artsakh",
+      "isdCode": "+37497"
+    },
+    {
+      "countryName": "Namibia",
+      "isdCode": "+264"
+    },
+    {
+      "countryName": "Nauru",
+      "isdCode": "+674"
+    },
+    {
+      "countryName": "Nepal",
+      "isdCode": "+977"
+    },
+    {
+      "countryName": "Netherlands",
+      "isdCode": "+31"
+    },
+    {
+      "countryName": "Nevis",
+      "isdCode": "+1869"
+    },
+    {
+      "countryName": "New Caledonia",
+      "isdCode": "+687"
+    },
+    {
+      "countryName": "New Zealand",
+      "isdCode": "+64"
+    },
+    {
+      "countryName": "Nicaragua",
+      "isdCode": "+505"
+    },
+    {
+      "countryName": "Niger",
+      "isdCode": "+227"
+    },
+    {
+      "countryName": "Nigeria",
+      "isdCode": "+234"
+    },
+    {
+      "countryName": "Niue",
+      "isdCode": "+683"
+    },
+    {
+      "countryName": "Norfolk Island",
+      "isdCode": "+6723"
+    },
+    {
+      "countryName": "North Macedonia",
+      "isdCode": "+389"
+    },
+    {
+      "countryName": "Northern Cyprus",
+      "isdCode": "+90392"
+    },
+    {
+      "countryName": "Northern Ireland",
+      "isdCode": "+4428"
+    },
+    {
+      "countryName": "Northern Mariana Islands",
+      "isdCode": "+1670"
+    },
+    {
+      "countryName": "Norway",
+      "isdCode": "+47"
+    },
+    {
+      "countryName": "Oman",
+      "isdCode": "+968"
+    },
+    {
+      "countryName": "Pakistan",
+      "isdCode": "+92"
+    },
+    {
+      "countryName": "Palau",
+      "isdCode": "+680"
+    },
+    {
+      "countryName": "Palestine, State of",
+      "isdCode": "+970"
+    },
+    {
+      "countryName": "Panama",
+      "isdCode": "+507"
+    },
+    {
+      "countryName": "Papua New Guinea",
+      "isdCode": "+675"
+    },
+    {
+      "countryName": "Paraguay",
+      "isdCode": "+595"
+    },
+    {
+      "countryName": "Peru",
+      "isdCode": "+51"
+    },
+    {
+      "countryName": "Philippines",
+      "isdCode": "+63"
+    },
+    {
+      "countryName": "Pitcairn Islands",
+      "isdCode": "+64"
+    },
+    {
+      "countryName": "Poland",
+      "isdCode": "+48"
+    },
+    {
+      "countryName": "Portugal",
+      "isdCode": "+351"
+    },
+    {
+      "countryName": "Puerto Rico",
+      "isdCode": "+1787"
+    },
+    {
+      "countryName": "Puerto Rico",
+      "isdCode": "+1939"
+    },
+    {
+      "countryName": "Qatar",
+      "isdCode": "+974"
+    },
+    {
+      "countryName": "Réunion",
+      "isdCode": "+262"
+    },
+    {
+      "countryName": "Romania",
+      "isdCode": "+40"
+    },
+    {
+      "countryName": "Russia",
+      "isdCode": "+7"
+    },
+    {
+      "countryName": "Rwanda",
+      "isdCode": "+250"
+    },
+    {
+      "countryName": "Saba",
+      "isdCode": "+5994"
+    },
+    {
+      "countryName": "Saint Barthélemy",
+      "isdCode": "+590"
+    },
+    {
+      "countryName": "Saint Helena",
+      "isdCode": "+290"
+    },
+    {
+      "countryName": "Saint Kitts and Nevis",
+      "isdCode": "+1869"
+    },
+    {
+      "countryName": "Saint Lucia",
+      "isdCode": "+1758"
+    },
+    {
+      "countryName": "Saint Martin (France)",
+      "isdCode": "+590"
+    },
+    {
+      "countryName": "Saint Pierre and Miquelon",
+      "isdCode": "+508"
+    },
+    {
+      "countryName": "Saint Vincent and the Grenadines",
+      "isdCode": "+1784"
+    },
+    {
+      "countryName": "Samoa",
+      "isdCode": "+685"
+    },
+    {
+      "countryName": "San Marino",
+      "isdCode": "+378"
+    },
+    {
+      "countryName": "São Tomé and Príncipe",
+      "isdCode": "+239"
+    },
+    {
+      "countryName": "Saudi Arabia",
+      "isdCode": "+966"
+    },
+    {
+      "countryName": "Senegal",
+      "isdCode": "+221"
+    },
+    {
+      "countryName": "Serbia",
+      "isdCode": "+381"
+    },
+    {
+      "countryName": "Seychelles",
+      "isdCode": "+248"
+    },
+    {
+      "countryName": "Sierra Leone",
+      "isdCode": "+232"
+    },
+    {
+      "countryName": "Singapore",
+      "isdCode": "+65"
+    },
+    {
+      "countryName": "Sint Eustatius",
+      "isdCode": "+5993"
+    },
+    {
+      "countryName": "Sint Maarten (Netherlands)",
+      "isdCode": "+1721"
+    },
+    {
+      "countryName": "Slovakia",
+      "isdCode": "+421"
+    },
+    {
+      "countryName": "Slovenia",
+      "isdCode": "+386"
+    },
+    {
+      "countryName": "Solomon Islands",
+      "isdCode": "+677"
+    },
+    {
+      "countryName": "Somalia",
+      "isdCode": "+252"
+    },
+    {
+      "countryName": "South Africa",
+      "isdCode": "+27"
+    },
+    {
+      "countryName": "South Georgia and the South Sandwich Islands",
+      "isdCode": "+500"
+    },
+    {
+      "countryName": "South Ossetia",
+      "isdCode": "+99534"
+    },
+    {
+      "countryName": "South Sudan",
+      "isdCode": "+211"
+    },
+    {
+      "countryName": "Spain",
+      "isdCode": "+34"
+    },
+    {
+      "countryName": "Sri Lanka",
+      "isdCode": "+94"
+    },
+    {
+      "countryName": "Sudan",
+      "isdCode": "+249"
+    },
+    {
+      "countryName": "Suriname",
+      "isdCode": "+597"
+    },
+    {
+      "countryName": "Svalbard",
+      "isdCode": "+4779"
+    },
+    {
+      "countryName": "Sweden",
+      "isdCode": "+46"
+    },
+    {
+      "countryName": "Switzerland",
+      "isdCode": "+41"
+    },
+    {
+      "countryName": "Syria",
+      "isdCode": "+963"
+    },
+    {
+      "countryName": "Taiwan",
+      "isdCode": "+886"
+    },
+    {
+      "countryName": "Tajikistan",
+      "isdCode": "+992"
+    },
+    {
+      "countryName": "Tanzania",
+      "isdCode": "+255"
+    },
+    {
+      "countryName": "Thailand",
+      "isdCode": "+66"
+    },
+    {
+      "countryName": "Thuraya (Mobile Satellite service)",
+      "isdCode": "+88216"
+    },
+    {
+      "countryName": "East Timor (Timor-Leste)",
+      "isdCode": "+670"
+    },
+    {
+      "countryName": "Togo",
+      "isdCode": "+228"
+    },
+    {
+      "countryName": "Tokelau",
+      "isdCode": "+690"
+    },
+    {
+      "countryName": "Tonga",
+      "isdCode": "+676"
+    },
+    {
+      "countryName": "Transnistria",
+      "isdCode": "+3732"
+    },
+    {
+      "countryName": "Transnistria",
+      "isdCode": "+3735"
+    },
+    {
+      "countryName": "Trinidad and Tobago",
+      "isdCode": "+1868"
+    },
+    {
+      "countryName": "Tristan da Cunha",
+      "isdCode": "+2908"
+    },
+    {
+      "countryName": "Tunisia",
+      "isdCode": "+216"
+    },
+    {
+      "countryName": "Turkey",
+      "isdCode": "+90"
+    },
+    {
+      "countryName": "Turkmenistan",
+      "isdCode": "+993"
+    },
+    {
+      "countryName": "Turks and Caicos Islands",
+      "isdCode": "+1649"
+    },
+    {
+      "countryName": "Tuvalu",
+      "isdCode": "+688"
+    },
+    {
+      "countryName": "Uganda",
+      "isdCode": "+256"
+    },
+    {
+      "countryName": "Ukraine",
+      "isdCode": "+380"
+    },
+    {
+      "countryName": "United Arab Emirates (UAE)",
+      "isdCode": "+971"
+    },
+    {
+      "countryName": "United Kingdom (UK)",
+      "isdCode": "+44"
+    },
+    {
+      "countryName": "United States (USA) or Canada",
+      "isdCode": "+1"
+    },
+    {
+      "countryName": "Universal Personal Telecommunications (UPT)",
+      "isdCode": "+878"
+    },
+    {
+      "countryName": "Uruguay",
+      "isdCode": "+598"
+    },
+    {
+      "countryName": "US Virgin Islands",
+      "isdCode": "+1340"
+    },
+    {
+      "countryName": "Uzbekistan",
+      "isdCode": "+998"
+    },
+    {
+      "countryName": "Vanuatu",
+      "isdCode": "+678"
+    },
+    {
+      "countryName": "Vatican City State (Holy See)",
+      "isdCode": "+379"
+    },
+    {
+      "countryName": "Venezuela",
+      "isdCode": "+58"
+    },
+    {
+      "countryName": "Vietnam",
+      "isdCode": "+84"
+    },
+    {
+      "countryName": "Wake Island, USA",
+      "isdCode": "+1808"
+    },
+    {
+      "countryName": "Wallis and Futuna",
+      "isdCode": "+681"
+    },
+    {
+      "countryName": "Yemen",
+      "isdCode": "+967"
+    },
+    {
+      "countryName": "Zambia",
+      "isdCode": "+260"
+    },
+    {
+      "countryName": "Zanzibar",
+      "isdCode": "+25524"
+    },
+    {
+      "countryName": "Zimbabwe",
+      "isdCode": "+263"
+    }
+  ]
+}

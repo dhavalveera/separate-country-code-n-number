@@ -1,23 +1,18 @@
 {
-  "name": "@dhavalveera/separate-country-code-n-number",
-  "version": "1.0.7",
-  "description": "Separates the Country Code and Number",
-  "license": "MIT",
-  "author": "Dhaval Vira <dhavalveera@gmail.com> (https://github.com/dhavalveera)",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dhavalveera/separate-country-code-n-number.git"
+  "dependencies": {
+    "@prantlf/jsonlint": "11.7.0"
   },
-  "bugs": {
-    "url": "https://github.com/dhavalveera/separate-country-code-n-number/issues"
+  "devDependencies": {
+    "@babel/eslint-parser": "7.19.1",
+    "eslint": "8.31.0",
+    "eslint-config-prettier": "8.6.0",
+    "eslint-plugin-json": "3.1.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "prettier": "2.8.1"
   },
-  "main": "index.js",
-  "keywords": [
-    "npm",
-    "separate country code and number",
-    "country code"
-  ],
-  "engines": {
-    "node": "*"
+  "scripts": {
+    "lint": "eslint src/**/*.{js,json}",
+    "lint:fix": "eslint --fix src/**/*.{js,json}",
+    "prettify": "jsonlint -si --trim-trailing-commas --enforce-double-quotes ./src/drivers/npm/countries-isd-codes.json"
   }
 }

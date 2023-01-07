@@ -39,8 +39,7 @@ Phone Number is =>  1234567890
 using CommonJS
 
 ```js
-const countryCode =
-  require('@dhavalveera/separate-country-code-n-number').separateCountryCodeAndNumber
+const countryCode = require('@dhavalveera/separate-country-code-n-number').separateCountryCodeAndNumber
 
 const { code, number, country } = countryCode('+911234567890')
 console.log(code, number, country)

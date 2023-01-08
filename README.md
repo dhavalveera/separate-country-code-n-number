@@ -13,8 +13,7 @@ If you don't have time to write the code to separate the country code & number f
 
 - [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org) version 14 or higher
-- [Yarn](https://yarnpkg.com) **or**
-- [npm](https://npmjs.com)
+- [Yarn](https://yarnpkg.com)
 
 ## Quick start
 

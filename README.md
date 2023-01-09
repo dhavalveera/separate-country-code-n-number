@@ -29,7 +29,7 @@ yarn run link
 ### Command line
 
 ```sh
-node src\drivers\npm\cli.js "+911234567890"
+node src/drivers/npm/cli.js "+911234567890"
 ```
 
 **`output:`**
